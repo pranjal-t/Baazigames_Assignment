@@ -1,0 +1,1 @@
+SELECT Id, Name, Score FROM Student ORDER BY Score DESC, Id ASC LIMIT 3;
